@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="check">Check</string>
+    <string name="here_will_be_results">Here will be results</string>
+    <string name="result">Result</string>
+    <string name="click_to_delete">Click to delete</string>
+</resources>
